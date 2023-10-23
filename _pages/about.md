@@ -11,7 +11,7 @@ redirect_from:
 MultiNetMetrics is an individual Marie-Curie Fellowship funded by the European Commission under grant number 796902. The grant lasted from 2018 to 2020 and was developed at [Vrije Universiteit Amsterdam](https://vu.nl/en/about-vu/faculties/school-of-business-and-economics).
 
 MultiNetMetrics brings together researchers:
-* [Luca Rossini]() as the Principal Investigator
+* [Luca Rossini](): Principal Investigator and previously post-doctoral at [Vrije Universiteit Amsterdam](https://vu.nl/en/about-vu/faculties/school-of-business-and-economics)
 * [Siem Jan Koopman](https://sjkoopman.net): Professor of Econometrics at [Vrije Universiteit Amsterdam](https://vu.nl/en/about-vu/faculties/school-of-business-and-economics) as Co-Principal Investigator
 * [André Lucas](https://personal.vu.nl/a.lucas/): Professor of Financial Econometrics at [Vrije Universiteit Amsterdam](https://vu.nl/en/about-vu/faculties/school-of-business-and-economics) as Co-Principal Investigator
 
