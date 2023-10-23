@@ -22,5 +22,6 @@ The 2007-2009 global financial crisis and the 2010-2012 European sovereign debt 
  
 In particular, network analysis contributes to a better understanding of complex systems of interconnected financial institutions and markets. It may help explain why and how financial and economic systems become inter-connected during particular episodes, and how risk propagates from one institution to the next, or from one sector of the economy to another (cascade effects). Network theory and its empirical implementation have therefore gained substantial popularity among policymakers.
 ​
+
 The literature on financial and economic network analysis has thus far focused mainly exclusively on static, single-layer networks. Much less research has been carried out on the dynamic behaviour of networks, the possible linkages between different network layers, and the interconnection of these two. The **MultiNetMetrics** project fills this gap by developing novel econometric techniques to address both modeling challenges in a computationally feasible way. This will advance our understanding of how economic and financial risks build up and spread over time. The project has therefore two main research directions.
 ​
